@@ -1,0 +1,160 @@
+[2013-08-17 15:57:41,879] - getWeiboPage.get_totallpage_num.79 - INFO - svm
+ 关键词总页数获取失败
+[2013-08-17 15:57:41,887] - getWeiboPage.get_totallpage_num.79 - INFO - 菜谱
+ 关键词总页数获取失败
+[2013-08-17 15:57:41,888] - getWeiboPage.get_totallpage_num.79 - INFO - 汤斌
+ 关键词总页数获取失败
+[2013-08-17 15:57:42,012] - getWeiboPage.get_totallpage_num.79 - INFO - deep learning
+ 关键词总页数获取失败
+[2013-08-17 15:58:59,294] - getWeiboPage.get_totallpage_num.79 - INFO - 汤斌
+ 关键词总页数获取失败
+[2013-08-17 15:58:59,606] - getWeiboPage.get_totallpage_num.79 - INFO - svm
+ 关键词总页数获取失败
+[2013-08-17 15:58:59,970] - getWeiboPage.get_totallpage_num.79 - INFO - deep learning
+ 关键词总页数获取失败
+[2013-08-17 15:59:00,297] - getWeiboPage.get_totallpage_num.79 - INFO - 菜谱
+ 关键词总页数获取失败
+[2013-08-17 16:01:08,131] - getWeiboPage.get_totallpage_num.79 - INFO - 汤斌
+ 关键词总页数获取失败
+[2013-08-17 16:01:08,324] - getWeiboPage.get_totallpage_num.79 - INFO - svm
+ 关键词总页数获取失败
+[2013-08-17 16:01:08,527] - getWeiboPage.get_totallpage_num.79 - INFO - deep learning
+ 关键词总页数获取失败
+[2013-08-17 16:01:08,807] - getWeiboPage.get_totallpage_num.79 - INFO - 菜谱
+ 关键词总页数获取失败
+[2013-08-17 16:04:38,349] - getWeiboPage.get_totallpage_num.87 - ERROR - 汤斌
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:04:38,622] - getWeiboPage.get_totallpage_num.87 - ERROR - svm
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:04:38,885] - getWeiboPage.get_totallpage_num.87 - ERROR - deep learning
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:04:39,150] - getWeiboPage.get_totallpage_num.87 - ERROR - 菜谱
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:05:14,258] - getWeiboPage.get_totallpage_num.89 - ERROR - 汤斌
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 67, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:05:14,487] - getWeiboPage.get_totallpage_num.89 - ERROR - svm
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 67, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:05:14,696] - getWeiboPage.get_totallpage_num.89 - ERROR - deep learning
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 67, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:05:14,893] - getWeiboPage.get_totallpage_num.89 - ERROR - 菜谱
+ 获取总页数失败: createFile() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 67, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 91, in write_file
+    writer = createFile(path);
+TypeError: createFile() takes exactly 2 arguments (1 given)
+[2013-08-17 16:08:17,981] - getWeiboPage.get_totallpage_num.87 - ERROR - 汤斌
+ 获取总页数失败: local variable 'filePath' referenced before assignment
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 97, in write_file
+    writer = createFile(path,filename);
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 86, in createFile
+    print 'file',filePath,'created error'
+UnboundLocalError: local variable 'filePath' referenced before assignment
+[2013-08-17 16:08:18,216] - getWeiboPage.get_totallpage_num.87 - ERROR - svm
+ 获取总页数失败: local variable 'filePath' referenced before assignment
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 97, in write_file
+    writer = createFile(path,filename);
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 86, in createFile
+    print 'file',filePath,'created error'
+UnboundLocalError: local variable 'filePath' referenced before assignment
+[2013-08-17 16:08:18,422] - getWeiboPage.get_totallpage_num.87 - ERROR - deep learning
+ 获取总页数失败: local variable 'filePath' referenced before assignment
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 97, in write_file
+    writer = createFile(path,filename);
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 86, in createFile
+    print 'file',filePath,'created error'
+UnboundLocalError: local variable 'filePath' referenced before assignment
+[2013-08-17 16:08:18,635] - getWeiboPage.get_totallpage_num.87 - ERROR - 菜谱
+ 获取总页数失败: local variable 'filePath' referenced before assignment
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 97, in write_file
+    writer = createFile(path,filename);
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 86, in createFile
+    print 'file',filePath,'created error'
+UnboundLocalError: local variable 'filePath' referenced before assignment
+[2013-08-17 16:09:49,442] - getWeiboPage.get_totallpage_num.87 - ERROR - 汤斌
+ 获取总页数失败: 'NoneType' object has no attribute 'write'
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 98, in write_file
+    writer.write(content);
+AttributeError: 'NoneType' object has no attribute 'write'
+[2013-08-17 16:09:49,801] - getWeiboPage.get_totallpage_num.87 - ERROR - svm
+ 获取总页数失败: 'NoneType' object has no attribute 'write'
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 98, in write_file
+    writer.write(content);
+AttributeError: 'NoneType' object has no attribute 'write'
+[2013-08-17 16:09:50,141] - getWeiboPage.get_totallpage_num.87 - ERROR - deep learning
+ 获取总页数失败: 'NoneType' object has no attribute 'write'
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 98, in write_file
+    writer.write(content);
+AttributeError: 'NoneType' object has no attribute 'write'
+[2013-08-17 16:09:50,448] - getWeiboPage.get_totallpage_num.87 - ERROR - 菜谱
+ 获取总页数失败: 'NoneType' object has no attribute 'write'
+Traceback (most recent call last):
+  File "/home/tbin/Study_resource/Weibo/weibo_search/getWeiboPage.py", line 65, in get_totallpage_num
+    utility.write_file(content, 'page_temp');
+  File "/home/tbin/Study_resource/Weibo/weibo_search/utility.py", line 98, in write_file
+    writer.write(content);
+AttributeError: 'NoneType' object has no attribute 'write'
